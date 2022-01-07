@@ -5,6 +5,8 @@
 - 📫 How to reach me lucas.silveira@egsys.com.br
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilveira-egsys&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilveira-egsys)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
     ![Snake animation](https://github.com/lucassilveira-egsys/lucassilveira-egsys/blob/output/github-contribution-grid-snake.svg)
 </div>
