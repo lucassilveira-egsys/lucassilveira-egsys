@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on egSYS System
 - 📫 How to reach me lucas.silveira@egsys.com.br
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilveira-egsys&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilveira-egsys&show_icons=true&theme=dark)
 
 <div>
     ![Snake animation](https://github.com/lucassilveira-egsys/lucassilveira-egsys/blob/output/github-contribution-grid-snake.svg)
